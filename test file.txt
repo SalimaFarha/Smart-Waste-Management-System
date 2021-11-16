@@ -1,0 +1,6 @@
+command
+git status
+git add
+git commit
+git push
+kisu pari na
