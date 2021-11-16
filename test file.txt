@@ -1,5 +1,6 @@
 command
 git add
 git commit
+git pull
 git push
-6th
+9th
